@@ -1,0 +1,26 @@
+{
+    "name": "muhammetsafak/jsonbase",
+    "type": "library",
+    "description": "It is a library that allows to use JSon files as database.",
+    "keywords": ["php", "json", "micro-data", "database", "jsonbase"],
+    "homepage": "https://github.com/muhammetsafak/jsonbase",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "JSONBase\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammet ŞAFAK",
+            "email": "info@muhammetsafak.com.tr",
+            "homepage": "https://www.muhammetsafak.com.tr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*"
+    }
+}
