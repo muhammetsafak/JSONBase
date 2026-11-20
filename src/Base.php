@@ -4,11 +4,11 @@
  *
  * This file is part of JSONBase.
  *
- * @author     Muhammet ŞAFAK <info@muhammetsafak.com.tr>
+ * @author     Muhammet ŞAFAK <info@muhammetsafak.com>
  * @copyright  Copyright © 2022 JSONBase
  * @license    https://github.com/muhammetsafak/JSONBase/blob/main/LICENSE  MIT
  * @version    1.0
- * @link       https://www.muhammetsafak.com.tr
+ * @link       https://muhammetsafak.com
  */
 
 declare(strict_types=1);
